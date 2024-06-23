@@ -2,40 +2,38 @@ body {
 	background-color:#001420;
 }
 h1 {
-	font-size: 72px;
+	font-size: 5vw;
 	color: #C62C2C;
 	font-family: "Press Start 2P";
 }
 h2 {
-	font-size: 40px;
+	font-size: 3.3vw;
 	color: #FFD24E;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 20vw;
+	margin-right: 20vw;
 }
 p {
-	font-size: 32px;
+	font-size: 2.2vw;
 	color: #FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 20vw;
+	margin-right: 20vw;
 }
 p2 {
-	font-size: 22px;
+	font-size: 1.2vw;
 	color: #FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
 }
 h3 {
-	font-size: 36px;
+	font-size: 3vw;
 	color: #FCF3F3;
 	font-family: "Sarabun";
 }
 ul {
-	font-size: 32px;
+	font-size: 2.2vw;
 	color:#FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 20vw;
+	margin-right: 20vw;
 }

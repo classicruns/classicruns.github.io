@@ -10,8 +10,8 @@ h2 {
 	font-size: 40px;
 	color: #FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 20vw;
+	margin-right: 20vw;
 }
 h3 {
 	font-size: 32px;
@@ -22,15 +22,13 @@ p {
 	font-size: 32px;
 	color: #FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
+	margin-left: 20vw;
+	margin-right: 20vw;
 }
 p2 {
-	font-size: 22px;
+	font-size: 1.2vw;
 	color: #FCF3F3;
 	font-family: "Sarabun";
-	margin-left: 300px;
-	margin-right: 300px;
 }
 table, th, td {
 	border-collapse: collapse;
