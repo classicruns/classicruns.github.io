@@ -1,5 +1,5 @@
 body {
-	background-color:#001420;
+	background-color:#02021D;
 }
 h1 {
 	font-size: 5vw;
@@ -13,17 +13,17 @@ h2 {
 	margin-left: 20vw;
 	margin-right: 20vw;
 }
+h4 {
+	font-size: 1.2vw;
+	color: #FCF3F3;
+	font-family: "Sarabun";
+}
 p {
 	font-size: 2.2vw;
 	color: #FCF3F3;
 	font-family: "Sarabun";
 	margin-left: 20vw;
 	margin-right: 20vw;
-}
-p2 {
-	font-size: 1.2vw;
-	color: #FCF3F3;
-	font-family: "Sarabun";
 }
 h3 {
 	font-size: 3vw;
