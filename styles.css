@@ -1,4 +1,5 @@
 body {
+	all: unset;
 	background-color:#02021D;
 }
 h1 {
@@ -7,16 +8,15 @@ h1 {
 	font-family: "Press Start 2P";
 }
 h2 {
+	
+	text-align: center;
+	font-weight: bold;
 	font-size: 3.3vw;
 	color: #FFD24E;
 	font-family: "Sarabun";
 	margin-left: 20vw;
 	margin-right: 20vw;
-}
-h4 {
-	font-size: 1.2vw;
-	color: #FCF3F3;
-	font-family: "Sarabun";
+	
 }
 p {
 	font-size: 2.2vw;
@@ -36,4 +36,79 @@ ul {
 	font-family: "Sarabun";
 	margin-left: 20vw;
 	margin-right: 20vw;
+}
+
+.back-button {
+	text-decoration: none;
+	color: #FFD24E;
+	font-size: 3vw;
+	font-family: "Sarabun";
+	padding: 10px;
+}
+
+.back-button:hover {
+
+	color: #ffe79f;
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.header {
+	font-size: 1.5vw;
+	color: #FCF3F3;
+	font-family: "Sarabun";
+}
+
+.header a{
+	color: #FFD24E;
+	
+}
+
+.header a:hover{
+	color: #ffe081;
+	cursor: pointer;
+	
+}
+
+@media screen and (max-width: 900px) {
+
+	.header {
+		font-size: 2.7vw;
+		
+	}
+
+	h2 {
+		text-align: center;
+		width: 65vw;
+		font-size: 5.5vw;
+		
+	}
+	img {
+		width: 55%;
+		
+	}
+
+	p {
+		font-size: 4.6vw;
+		width: 65vw;
+		word-wrap: break-word;
+		
+	}
+
+	li {
+		font-size: 4.6vw;
+		width: 65vw;
+		word-wrap: break-word;
+		
+	}
 }
