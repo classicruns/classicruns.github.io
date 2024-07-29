@@ -54,3 +54,14 @@ td {
 table tr:nth-child(even){
 	background-color:#001331;
 }
+.back-button {
+	text-decoration: none;
+	color: #FFD24E;
+	font-size: 3vw;
+	font-family: "Sarabun";
+	padding: 10px;
+}
+
+.back-button:hover {
+	color: #ffe79f;
+}
